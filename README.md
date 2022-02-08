@@ -32,14 +32,19 @@ EIA energy explained: electricity in the US [source 05](https://www.eia.gov/ener
 ### NOTEBOOKS 
 
 * [‘api_functions.ipynb`](./notebooks/api_functions.ipynb): Notebook containing functions to make dataframes from the the EIA API regardless of query or plant
-* [initial_models.ipynb`](./notebooks/initial_models.ipynb): Notebook with time series models: moving average, single exponential smoothing, and triple exponential smoothing. 
-* [viz.ipynb`](./notebooks/viz.ipynb): Notebook with exploratory data analysis visuals: moving average, single exponential smoothing, and triple exponential smoothing. 
-* [viz_2.ipynb`](./notebooks/viz_2.ipynb): A second notebook of exploratory data analysis figures: including plots of energy sources and energy demand averaged over different time intervals.   
-
+* [‘initial_models.ipynb`](./notebooks/initial_models.ipynb): Notebook with time series models: moving average, single exponential smoothing, and triple exponential smoothing. 
+* [‘viz.ipynb`](./notebooks/viz.ipynb): Notebook with exploratory data analysis visuals: moving average, single exponential smoothing, and triple exponential smoothing. 
+* [‘viz_2.ipynb`](./notebooks/viz_2.ipynb): A second notebook of exploratory data analysis figures: including plots of energy sources and energy demand averaged over different time intervals.   
+* [‘model_interpretation.ipynb`](./notebooks/model_interpretation.ipynb):
+* [‘my_functions.py`](./notebooks/my_functions.py):
 
 ### DATASETS
 
 * [‘all_erco_energy_cst.csv`](./data/all_erco_energy_cst.csv): Dataset containing all information pulled from the EIA API for th ERCO balancing authority in CST
+* [‘all_erco_energy.csv`](./data/all_erco_energy.csv): Dataset containing all information pulled from the EIA API for th ERCO balancing authority in UTC
+* [‘erco_energy.csv`](./data/erco_energy.csv): Demand and Generation by Source for the above in UTC
+* [‘erco_forecast.csv`](./data/erco_forecast.csv): Forecast for the same data as above in UTC
+
 
 |FEATURE|TYPE|DESCRIPTION|
 |---|---|---|
