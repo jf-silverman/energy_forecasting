@@ -35,8 +35,8 @@ EIA energy explained: electricity in the US [source 05](https://www.eia.gov/ener
 * [‘initial_models.ipynb`](./notebooks/initial_models.ipynb): Notebook with time series models: moving average, single exponential smoothing, and triple exponential smoothing. 
 * [‘viz.ipynb`](./notebooks/viz.ipynb): Notebook with exploratory data analysis visuals: moving average, single exponential smoothing, and triple exponential smoothing. 
 * [‘viz_2.ipynb`](./notebooks/viz_2.ipynb): A second notebook of exploratory data analysis figures: including plots of energy sources and energy demand averaged over different time intervals.   
-* [‘model_interpretation.ipynb`](./notebooks/model_interpretation.ipynb):
-* [‘my_functions.py`](./notebooks/my_functions.py):
+* [‘model_interpretation.ipynb`](./notebooks/model_interpretation.ipynb): Comparison of the EIA Forecast archive since 2018 and our model results, against hourly demand
+* [‘my_functions.py`](./notebooks/my_functions.py): Functions called in various notebooks
 
 ### DATASETS
 
