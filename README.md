@@ -6,6 +6,8 @@
 #### <font color='darkgray'>February 07, 2022</font>
 ---
 
+Long form technical walkthrough of project steps, can be viewed [here](https://kendallfrimodig.github.io/energy-demand-forecasting/)
+
 ### PROBLEM STATEMENT
 
 **Can we empower people to make informed decisions about their power usage?**
